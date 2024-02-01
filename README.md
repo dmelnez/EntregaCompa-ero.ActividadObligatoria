@@ -1,6 +1,7 @@
 Actividad entregada por el compañero. 
 La cual contiene su actividad realizada, sin la correccion de la misma, sino que se encuentra junto al txt entregado.
-el txt contiene:
+
+El txt contiene:
 
 - Enunciado de la actividad.
 - Criterios de evaluacion y su correspondiente puntuacion.
